@@ -62,7 +62,7 @@ footer {
 .art1 {
 	position: absolute;
 	background-color: red;
-	display: inline;
+	display: none;
 	top: 150px;
 	right: 25px;
 	height: 450px;

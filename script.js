@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$(".art1").hide();
 
 	$('#b1').click(function(){
 
